@@ -1,3 +1,4 @@
+
 # React E-Commerce Website (Frontend)
 
 ## 📌 Overview
@@ -23,3 +24,6 @@ Frontend only. Backend and payments will be added in future updates.
 
 ## 👩‍💻 Author
 Pooja Mistry
+
+# ecommerce-project
+
